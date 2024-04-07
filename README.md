@@ -7,4 +7,5 @@ The smart contract is easily understandable as it's not too much complex and onl
 
 ## Requirements
 1. Metamask wallet. You can take a wallet by visiting [metamask](https://metamask.io/)
-Ensure you have thirdweb installed in your system. To install [thirdweb](https://thirdweb.com/) you can visit their website. 
+2. [Node js](https://nodejs.org/en)
+3. [thirdweb](https://thirdweb.com/)  
