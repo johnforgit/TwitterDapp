@@ -23,4 +23,4 @@ The smart contract is easily understandable as it's not too much complex and onl
 9. Based on what you have installed(npm or yarn) you can run the Dapp and it will open in localhost
 10. To run using npm : ```npm run dev```
 11. To run using yarn : ```yarn dev```
-12. 
+12. To deploy using yarn : ```yarn deploy```
