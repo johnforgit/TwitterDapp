@@ -16,8 +16,11 @@ The smart contract is easily understandable as it's not too much complex and onl
 3. For creating an app : ```npx thirdweb create --app```
 4. You can also use the command ```npx thirdweb@latest create```  
    In case you use this command every thirdweb command hereafter should have ```npx thirdweb@latest``` in it
-5. After the successful creation of your contract you can deploy it by : ```npx thirdweb deploy``` in your terminal
+5. After the successful creation of your contract you can deploy it by : ```npx thirdweb deploy``` in your terminal. thirdweb will also ask us the dev framework we want(houndry or hardhat)
 6. This will take us to the thirdweb dashboard. Connect your metamask wallet and deploy your contract on your preferred chain
 7. After successful deploying we can see the read and write functions of our contract and interact with it from the explorer tab. We can also get the code snippets for javascript and many more from the code snippets tab. Much easier when compared to other dev frameworks
 8. To run the frontend make the changes accordingly. I chose a next.js project and chose typescript as the language
 9. Based on what you have installed(npm or yarn) you can run the Dapp and it will open in localhost
+10. To run using npm : ```npm run dev```
+11. To run using yarn : ```yarn dev```
+12. 
