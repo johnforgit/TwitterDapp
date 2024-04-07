@@ -16,3 +16,5 @@ The smart contract is easily understandable as it's not too much complex and onl
 3. For creating an app : ```npx thirdweb create --app```
 4. You can also use the command ```npx thirdweb@latest create```  
    In case you use this command every thirdweb command hereafter should have ```npx thirdweb@latest``` in it
+5. After the successful creation of your contract you can deploy it by : ```javascript
+   npx thirdweb deploy```
