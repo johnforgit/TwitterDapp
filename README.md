@@ -18,3 +18,4 @@ The smart contract is easily understandable as it's not too much complex and onl
    In case you use this command every thirdweb command hereafter should have ```npx thirdweb@latest``` in it
 5. After the successful creation of your contract you can deploy it by : ```npx thirdweb deploy``` in your terminal
 6. This will take us to the thirdweb dashboard. Connect your metamask wallet and deploy your contract on your preferred chain
+7. After successful deploying we can see the read and write functions of our contract and interact with it from the explorer tab. We can also get the code snippets for javascript and many more from the code snippets tab. Much easier when compared to other dev frameworks
