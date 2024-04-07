@@ -24,3 +24,6 @@ The smart contract is easily understandable as it's not too much complex and onl
 10. To run using npm : ```npm run dev```
 11. To run using yarn : ```yarn dev```
 12. To deploy using yarn : ```yarn deploy```
+
+## Status of the Dapp
+The dapp currently has minimum functionality when considering the frontend. The smart contract works well and much more needs to be done on the frontend part
