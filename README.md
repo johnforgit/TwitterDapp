@@ -14,3 +14,5 @@ The smart contract is easily understandable as it's not too much complex and onl
 1. After installing all the requirements create a contract using thirdweb
 2. For creating a contract : ```npx thirdweb create --contract```
 3. For creating an app : ```npx thirdweb create --app```
+4. You can also use the command ```npx thirdweb@latest create```
+     In case you use this command every thirdweb command hereafter should have ```npx thirdweb@latest``` in it
